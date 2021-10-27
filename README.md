@@ -4,7 +4,7 @@ Cursando Ciência da Computação na Universidade Técnológica Federal do Paran
 
 ## Minhas experiências
 
-No desenvolvimento de um [simulador de algoritmos de busca](https://github.com/jefersoncmn/Genetic-Algorithm) obtive experiência em C# e
+No desenvolvimento de um [simulador de algoritmos de busca](https://github.com/jefersoncmn/fsiWork1) obtive experiência em C# e
 Unity. E também, no desenvolvimento do projeto [Btruck](https://github.com/jefersoncmn/Btruck). Um simulador de piloto de 
 caminhão, aprendi mais sobre Desing Patters dentro do ambiente da Unity.
 

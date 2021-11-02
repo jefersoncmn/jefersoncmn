@@ -1,6 +1,6 @@
 # Jeferson Carlos Martin
 
-Cursando Ciência da Computação na Universidade Técnológica Federal do Paraná (Ano de entrada: 2017).
+Cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (Ano de entrada: 2017).
 
 ## Minhas experiências
 

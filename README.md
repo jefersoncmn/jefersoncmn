@@ -16,11 +16,11 @@ JavaScript - Aprendi no desenvolvimento de um simples [servidor operado no Node]
 que faz parte do projeto Btruck. Depois obtive mais conhecimento no uso de JavaScript 
 no React.
 
-C - Experiência obtida nas matérias da universidade, tanto no aprendizado da logica de 
+C - Experiência obtida nas matérias da universidade, tanto no aprendizado da lógica de 
 programação e estrutura de dados.
 
 Obtive experiência em Python, no desenvolvimento de um projeto de [Algoritmos Genéticos](https://github.com/jefersoncmn/Genetic-Algorithm). O objetivo era o desenvolvimento de um algoritmo genético que “aprende” a 
-ordenar matérias da semana, seguindo regras restabelecidas (exemplo: o professor não pode dar aula em duas matérias ao mesmo tempo).
+ordenar matérias da semana, seguindo regras estabelecidas (exemplo: o professor não pode dar aula em duas matérias ao mesmo tempo).
 
 MySQL - Experiência obtida nas matérias da universidade, principalmente Sistemas de
 Gerenciamento de Banco de Dados, onde aprendi os comandos, eventos e triggers

@@ -25,8 +25,11 @@ Cursando Ciência da Computação na Universidade Tecnológica Federal do Paran�
   
   <img alt="C" src="https://img.shields.io/badge/-C-87CEFA?logo=C&style=for-the-badge&logoColor=black"/>
   
+  <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-696969?logo=JAVA&style=for-the-badge&logoColor=white"/>
   
+  <img alt="Python" src="https://img.shields.io/badge/-Python-FFF8DC?logo=python&style=for-the-badge"/>
 
+  <img alt="C#" src="https://img.shields.io/badge/-csharp-000000?logo=csharp&style=for-the-badge&&logoColor=white"/>
 </div>
 
   ## Minhas experiências

@@ -2,7 +2,34 @@
 
 Cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (Ano de entrada: 2017).
 
-## Minhas experiências
+<br>
+
+<div>
+  <a href="https://github.com/jefersoncmn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefersoncmn&show_icons=true&hide=issues,stars&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersoncmn&theme=dracula&layout=compact&langs_count=10"/>
+</div>
+
+<br/>
+<div style="display: inline_block">
+
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
+
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
+
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-000000?&style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-663399?logo=Unity&style=for-the-badge"/>
+  
+  <img alt="C" src="https://img.shields.io/badge/-C-87CEFA?logo=C&style=for-the-badge&logoColor=black"/>
+  
+  
+
+</div>
+
+  ## Minhas experiências
 
 No desenvolvimento de um [simulador de algoritmos de busca](https://github.com/jefersoncmn/fsiWork1) obtive experiência em C# e
 Unity. E também, no desenvolvimento do projeto [Btruck](https://github.com/jefersoncmn/Btruck). Um simulador de piloto de 
@@ -27,27 +54,6 @@ Gerenciamento de Banco de Dados, onde aprendi os comandos, eventos e triggers
 
 Inglês Intermediário (leitura).
 Inglês Básico (fala, escrita).
-
-<br>
-
-<div>
-  <a href="https://github.com/jefersoncmn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefersoncmn&show_icons=true&hide=issues,stars&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersoncmn&theme=dracula&layout=compact&langs_count=10"/>
-</div>
-
-<br/>
-<div style="display: inline_block">
-
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
-
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
-
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-000?&style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
   
 ## Meu contato
 

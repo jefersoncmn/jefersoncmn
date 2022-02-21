@@ -5,7 +5,7 @@ Enthusiast of: Machine Learning, Game Development, Mathematics and Development w
 
 <br>
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/jefersoncmn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefersoncmn&show_icons=true&hide=issues,stars&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersoncmn&theme=dracula&layout=compact&langs_count=10"/>

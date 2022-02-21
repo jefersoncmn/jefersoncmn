@@ -1,6 +1,7 @@
 # Jeferson Carlos Martin
 
-Cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (Ano de entrada: 2017).
+Computer Science student in UTFPR-SH. 
+Enthusiast of: Machine Learning, Game Development, Mathematics and Development with Flutter, ReactJs.
 
 <br>
 
@@ -32,33 +33,19 @@ Cursando Ciência da Computação na Universidade Tecnológica Federal do Paran�
   <img alt="C#" src="https://img.shields.io/badge/-csharp-000000?logo=csharp&style=for-the-badge&&logoColor=white"/>
 </div>
 
-  ## Minhas experiências
+  ## My experiences
 
-No desenvolvimento de um [simulador de algoritmos de busca](https://github.com/jefersoncmn/fsiWork1) obtive experiência em C# e
-Unity. E também, no desenvolvimento do projeto [Btruck](https://github.com/jefersoncmn/Btruck). Um simulador de piloto de 
-caminhão, aprendi mais sobre Desing Patters dentro do ambiente da Unity.
-
-No projeto [DarkTools](https://github.com/rafaelomodei/darktools). Um jogo de aventura, com mecânicas de combate em turno e 
-escolhas. Nesse projeto obtive ganho de experiência no uso de Desing Patterns, JAVA e 
-Versionamento (Git).
+- [Pathfinding tester](https://github.com/jefersoncmn/fsiWork1) is project made in Unity engine. The objective is test pathfinding algorithms like A* in a random generated scenario.
   
-JavaScript - Aprendi no desenvolvimento de um simples [servidor operado no Node](https://github.com/jefersoncmn/BtruckServer), 
-que faz parte do projeto Btruck. Depois obtive mais conhecimento no uso de JavaScript 
-no React.
+- [Btruck](https://github.com/jefersoncmn/Btruck) is trucker simulator game.
 
-C - Experiência obtida nas matérias da universidade, tanto no aprendizado da lógica de 
-programação e estrutura de dados.
-
-Obtive experiência em Python, no desenvolvimento de um projeto de [Algoritmos Genéticos](https://github.com/jefersoncmn/Genetic-Algorithm). O objetivo era o desenvolvimento de um algoritmo genético que “aprende” a 
-ordenar matérias da semana, seguindo regras estabelecidas (exemplo: o professor não pode dar aula em duas matérias ao mesmo tempo).
-
-MySQL - Experiência obtida nas matérias da universidade, principalmente Sistemas de
-Gerenciamento de Banco de Dados, onde aprendi os comandos, eventos e triggers
-
-Inglês Intermediário (leitura).
-Inglês Básico (fala, escrita).
+- [DarkTools](https://github.com/rafaelomodei/darktools) is an adventure game made in JAVA. Battles in turn and history with different choices.
   
-## Meu contato
+- [BTruck server](https://github.com/jefersoncmn/BtruckServer) is a project to me learn to how MMO's game servers works.
+
+- [Jokenpo](https://github.com/jefersoncmn/Jokenpo) is a minigame made in ReactJs.
+  
+## Contact Me
 
 :mailbox: [jefersoncmn@hotmail.com](jefersoncmn@hotmail.com)
 
@@ -70,7 +57,3 @@ Inglês Básico (fala, escrita).
 [<img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>](https://www.twitch.tv/jefcmn)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCa_rv4hq2RvkDMWHok4hcmw)
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jefersoncmnn@gmail.com)
-  
-## Alguns projetos
-
-[![DarkTools](https://github-readme-stats.vercel.app/api/pin/?username=rafaelomodei&repo=darktools&theme=dracula)](https://github.com/rafaelomodei/darktools)

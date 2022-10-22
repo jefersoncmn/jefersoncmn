@@ -13,12 +13,18 @@ Enthusiast of: Machine Learning, Game Development, Mathematics and Development w
 
 <br/>
 <div style="display: inline_block">
+  <img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
 
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-000000?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   
@@ -31,6 +37,9 @@ Enthusiast of: Machine Learning, Game Development, Mathematics and Development w
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFF8DC?logo=python&style=for-the-badge"/>
 
   <img alt="C#" src="https://img.shields.io/badge/-csharp-000000?logo=csharp&style=for-the-badge&&logoColor=white"/>
+  
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  
 </div>
 
   ## My experiences

@@ -45,6 +45,9 @@ Enthusiast of: Machine Learning, Game Development, Mathematics and Development w
   ## My experiences
 
 - [Pathfinding tester](https://github.com/jefersoncmn/fsiWork1) is project made in Unity engine. The objective is test pathfinding algorithms like A* in a random generated scenario.
+- [Corrida dos Ratos](https://github.com/jefersoncmn/CorridaDosRatos) Strategy and management game, inspired by Cashflow.
+  
+- [The Madness Idle](https://github.com/jefersoncmn/The-Madness-Idle) Idle game. Inspired by Idle Slayer. 
   
 - [Btruck](https://github.com/jefersoncmn/Btruck) is trucker simulator game.
 

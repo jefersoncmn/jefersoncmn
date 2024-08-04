@@ -1,7 +1,7 @@
 # Jeferson Carlos Martin
 
 Computer Science student in UTFPR-SH.
-Working creating solutions using web and mobile applications.
+Currently working on creating solutions using web and mobile applications.
 
 Enthusiast of: Machine Learning and Game Development.
 
